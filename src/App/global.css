@@ -39,13 +39,3 @@ menu,
 nav {
   font-family: "Pretendard-Regular";
 }
-.content {
-  width: 1040px;
-  margin: 0 auto;
-}
-
-.basic-flex {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
